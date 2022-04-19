@@ -1,2 +1,4 @@
 # C_code
-This is an exercise topic
+## hello my friend 
+### This is an exercise topic
+### you can see my progress
